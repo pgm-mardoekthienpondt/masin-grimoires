@@ -18,4 +18,59 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.grimoire-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grimoire-card{
+  position: relative;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  opacity: 0.3;
+}
+
+.grimoire-card.selected{
+  opacity: 1;
+}
+
+.grimoire-card span{
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  backdrop-filter: blur(5px);
+}
+
+.grimoire-card footer{
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+}
+
+.grimoire-card:hover span{
+  display: block;
+}
+
+.oblivion{
+  background-color: red;
+}
+.spirituality{
+  background-color: blue;
+}
+.salvation{
+  background-color: green;
+}
+.awakening{
+  background-color: black;
 }

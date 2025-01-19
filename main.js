@@ -2,21 +2,21 @@ const fs = require('fs');
 const html = fs.readFileSync('grimoire_table.html', 'utf8');
 
 function extractTableRows(html) {
-    const table = html.match(/<table[^>]*>[\s\S]*?<\/table>/g);
-    if (!table) return null;
-    const rows = table[0].match(/<tr[^>]*>[\s\S]*?<\/tr>/g);
-    return rows;
+  const table = html.match(/<table[^>]*>[\s\S]*?<\/table>/g);
+  if (!table) return null;
+  const rows = table[0].match(/<tr[^>]*>[\s\S]*?<\/tr>/g);
+  return rows;
 }
 
 const $rows = extractTableRows(html);
 
-
-
-
 const categories = ["oblivion", "spirituality", "salvation", "awakening"];
+const categoryIndexCounters = categories.reduce((acc, category) => {
+  acc[category] = 0; // Initialize counters for each category
+  return acc;
+}, {});
+
 const grimoires = [];
-
-
 
 if ($rows) {
   $rows.forEach(row => {
@@ -32,12 +32,16 @@ if ($rows) {
 
         const name = nameMatch ? nameMatch[1].trim() : null;
         const source = sourceMatch ? sourceMatch[1].trim() : null;
+        const category = categories[index - 1]; // Adjust for 0-based index
 
-        if (name && source) {
+        if (name && category) {
+          // Increment and assign index for the current category
+          categoryIndexCounters[category]++;
           grimoires.push({
             name,
             source,
-            category: categories[index],
+            category,
+            index: categoryIndexCounters[category],
             full_text: fullText
           });
         }
