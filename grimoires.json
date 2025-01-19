@@ -1,0 +1,389 @@
+{
+  "grimoires": [
+    {
+      "name": "Raider Rush",
+      "source": "Commanding Officer Raider",
+      "category": "spirituality",
+      "full_text": "Raider Rush:\r\n        Commanding Officer Raider"
+    },
+    {
+      "name": "Enslaved Will",
+      "source": "Bandit King Marble",
+      "category": "salvation",
+      "full_text": "Enslaved Will:\r\n        Bandit King Marble"
+    },
+    {
+      "name": "Fighting Will",
+      "source": "Marble's Executive Officer",
+      "category": "awakening",
+      "full_text": "Fighting Will:\r\n        Marble's Executive Officer"
+    },
+    {
+      "name": "Bonechill",
+      "source": "Fallen King Arthas Menethil",
+      "category": "spirituality",
+      "full_text": "Bonechill:\r\n        Fallen King Arthas Menethil"
+    },
+    {
+      "name": "Go!",
+      "source": "Devil Triads Go To Hell",
+      "category": "salvation",
+      "full_text": "Go!:  Go\r\n        Devil Triads Go To Hell"
+    },
+    {
+      "name": "Arise",
+      "source": "Devil of Awakening Ariser",
+      "full_text": "Arise:\r\n        Devil of Awakening Ariser"
+    },
+    {
+      "name": "Hellfury",
+      "source": "Devil Triads Go To Hell",
+      "category": "spirituality",
+      "full_text": "Hellfury: Hell\r\n        Devil Triads Go To Hell"
+    },
+    {
+      "name": "Moon Walk",
+      "source": "Devil Triads Go To Hell",
+      "category": "salvation",
+      "full_text": "Moon Walk:\r\n        Devil Triads Go To Hell"
+    },
+    {
+      "name": "Naked Skin",
+      "source": "Barbarian Tribal Chief Griman",
+      "category": "awakening",
+      "full_text": "Naked Skin:\r\n        Barbarian Tribal Chief Griman"
+    },
+    {
+      "name": "Tassadar's Defiance",
+      "source": "Imperial Knight Captain Tassadar",
+      "category": "awakening",
+      "full_text": "Tassadar's Defiance:\r\n        Imperial Knight Captain Tassadar"
+    },
+    {
+      "name": "A Thousand Faces",
+      "source": "Thousand Faces Luchifare",
+      "full_text": "A Thousand Faces:\r\n        Thousand Faces Luchifare"
+    },
+    {
+      "name": "Magic Blast",
+      "source": "Mischievous Zeff",
+      "category": "spirituality",
+      "full_text": "Magic Blast:\r\n        Mischievous Zeff"
+    },
+    {
+      "name": "Dash",
+      "source": "Hero Schneider",
+      "category": "salvation",
+      "full_text": "Dash:\r\n        Hero Schneider"
+    },
+    {
+      "name": "Ludviana's Affection",
+      "source": "Firstborn Ludviana",
+      "category": "awakening",
+      "full_text": "Ludviana's Affection:\r\n        Firstborn Ludviana"
+    },
+    {
+      "name": "Grief",
+      "source": "Paimon of Grieving Soul",
+      "full_text": "Grief:\r\n        Paimon of Grieving Soul"
+    },
+    {
+      "name": "Blade Shield",
+      "source": "Disgraceful Enuk",
+      "category": "spirituality",
+      "full_text": "Blade Shield:\r\n        Disgraceful Enuk"
+    },
+    {
+      "name": "Burning Desire",
+      "source": "Playful Witgang",
+      "category": "salvation",
+      "full_text": "Burning Desire:\r\n        Playful Witgang"
+    },
+    {
+      "name": "Shared Agony",
+      "source": "Iroel of Fear",
+      "category": "awakening",
+      "full_text": "Shared Agony:\r\n        Iroel of Fear"
+    },
+    {
+      "name": "Grimoire of Actual Awakening",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Grimoire of Actual Awakening:\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Heavy Blow",
+      "source": "Dangerous Monak",
+      "category": "spirituality",
+      "full_text": "Heavy Blow:\r\n        Dangerous Monak"
+    },
+    {
+      "name": "Weaken",
+      "source": "Devil of Pestilence Plague",
+      "category": "salvation",
+      "full_text": "Weaken:\r\n        Devil of Pestilence Plague"
+    },
+    {
+      "name": "Wave of Divinity",
+      "source": "Prophet Samuel",
+      "category": "awakening",
+      "full_text": "Wave of Divinity:\r\n        Prophet Samuel"
+    },
+    {
+      "name": "Magic Blasta",
+      "source": "Mischievous Zeff",
+      "category": "spirituality",
+      "full_text": "Magic Blasta: Magic Blast x2*\r\n        Mischievous Zeff"
+    },
+    {
+      "name": "True Power",
+      "source": "Powerful Angel Powers",
+      "category": "salvation",
+      "full_text": "True Power:\r\n        Powerful Angel Powers"
+    },
+    {
+      "name": "Undestroy Soul",
+      "source": "Lilith's Younger Sister Gremory",
+      "category": "awakening",
+      "full_text": "Undestroy Soul:\r\n        Lilith's Younger Sister Gremory"
+    },
+    {
+      "name": "Thirst",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Thirst: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Magic Blastaga",
+      "source": "Mischievous Zeff",
+      "category": "spirituality",
+      "full_text": "Magic Blastaga: Magic Blast x3*\r\n        Mischievous Zeff"
+    },
+    {
+      "name": "Fury",
+      "source": "Fallen Angel Azrael",
+      "category": "salvation",
+      "full_text": "Fury:\r\n        Fallen Angel Azrael"
+    },
+    {
+      "name": "Spirit Infusion",
+      "source": "Erigos of War",
+      "category": "awakening",
+      "full_text": "Spirit Infusion:\r\n        Erigos of War"
+    },
+    {
+      "name": "Disgust",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Disgust: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Unconscious Blow",
+      "source": "Menacing Bereth",
+      "category": "spirituality",
+      "full_text": "Unconscious Blow:\r\n        Menacing Bereth"
+    },
+    {
+      "name": "Eternal Training",
+      "source": "Fighter Ose",
+      "category": "salvation",
+      "full_text": "Eternal Training:\r\n        Fighter Ose"
+    },
+    {
+      "name": "Golden Potion",
+      "source": "Evil God of Greed Mammon",
+      "category": "awakening",
+      "full_text": "Golden Potion:\r\n        Evil God of Greed Mammon"
+    },
+    {
+      "name": "Revenge",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Revenge: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Havoc",
+      "source": "Even More Menacing Bereth",
+      "category": "spirituality",
+      "full_text": "Havoc:\r\n        Even More Menacing Bereth"
+    },
+    {
+      "name": "Duke",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Duke:  Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Murderer",
+      "source": "First Murderer Cain",
+      "category": "spirituality",
+      "full_text": "Murderer:\r\n        First Murderer Cain"
+    },
+    {
+      "name": "Aura of Affection",
+      "source": "Captivating Sitri",
+      "category": "salvation",
+      "full_text": "Aura of Affection:\r\n        Captivating Sitri"
+    },
+    {
+      "name": "Will to Protect",
+      "source": "Abel",
+      "category": "awakening",
+      "full_text": "Will to Protect:\r\n        Abel"
+    },
+    {
+      "name": "Apocalypse",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Apocalypse: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Consume Fear",
+      "source": "Angel of Destruction Kamael",
+      "category": "spirituality",
+      "full_text": "Consume Fear:\r\n        Angel of Destruction Kamael"
+    },
+    {
+      "name": "Soul of the Abyss",
+      "source": "Lonely Drunk Sitael",
+      "category": "salvation",
+      "full_text": "Soul of the Abyss:\r\n        Lonely Drunk Sitael"
+    },
+    {
+      "name": "Sacred Life",
+      "source": "Fire Trial; Plethon and Ifrit",
+      "category": "awakening",
+      "full_text": "Sacred Life:\r\n        Fire Trial; Plethon and Ifrit"
+    },
+    {
+      "name": "Abyss",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Abyss: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Death Strike",
+      "source": "Angel of Death Azrael",
+      "category": "spirituality",
+      "full_text": "Death Strike:\r\n        Angel of Death Azrael"
+    },
+    {
+      "name": "Infernal Skin",
+      "source": "Wild Belial",
+      "category": "salvation",
+      "full_text": "Infernal Skin:\r\n        Wild Belial"
+    },
+    {
+      "name": "Nightmare",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Nightmare: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Wave of Corruption",
+      "source": "Prideful Rahab",
+      "category": "spirituality",
+      "full_text": "Wave of Corruption:\r\n        Prideful Rahab"
+    },
+    {
+      "name": "Mana Discharge",
+      "source": "Slumbering Leviathan",
+      "category": "salvation",
+      "full_text": "Mana Discharge:\r\n        Slumbering Leviathan"
+    },
+    {
+      "name": "Blessing",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Blessing: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Dear Ludviana",
+      "source": "Berserking Asmodeus",
+      "category": "salvation",
+      "full_text": "Dear Ludviana:\r\n        Berserking Asmodeus"
+    },
+    {
+      "name": "Demonscales",
+      "source": "Lord of Terror Diablo",
+      "category": "awakening",
+      "full_text": "Demonscales:\r\n        Lord of Terror Diablo"
+    },
+    {
+      "name": "Wrath",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Wrath: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Meteor",
+      "source": "Gusion",
+      "category": "spirituality",
+      "full_text": "Meteor:\r\n        Gusion"
+    },
+    {
+      "name": "Hypnosis",
+      "source": "Fallen God Solomon",
+      "category": "awakening",
+      "full_text": "Hypnosis:\r\n        Fallen God Solomon"
+    },
+    {
+      "name": "Lust",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Lust: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Savage Slashes",
+      "source": "Commander of the",
+      "category": "spirituality",
+      "full_text": "Savage Slashes: Commander of the\r\n        1st Corps Satanachia"
+    },
+    {
+      "name": "Forceful Cleave",
+      "source": "Lord of Horses and Cows Moloch",
+      "category": "salvation",
+      "full_text": "Forceful Cleave:\r\n        Lord of Horses and Cows Moloch"
+    },
+    {
+      "name": "Death",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Death: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Phoenix Fire",
+      "source": "Fire Trial; Plethon and Ifrit",
+      "category": "spirituality",
+      "full_text": "Phoenix Fire:\r\n        Fire Trial; Plethon and Ifrit"
+    },
+    {
+      "name": "Mana Shield",
+      "source": "Empress of Hell Wicked Lilith",
+      "category": "salvation",
+      "full_text": "Mana Shield:\r\n        Empress of Hell Wicked Lilith"
+    },
+    {
+      "name": "Slaughter",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Slaughter: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Sadistic Masochist",
+      "source": "War God Vassago",
+      "category": "spirituality",
+      "full_text": "Sadistic Masochist:\r\n        War God Vassago"
+    },
+    {
+      "name": "Betrayal",
+      "source": "Sorceress of the Elements Aurelia",
+      "full_text": "Betrayal: Sealed Demonic Secrets\r\n        Sorceress of the Elements Aurelia"
+    },
+    {
+      "name": "Enrage",
+      "source": "Adam Astaroth",
+      "category": "spirituality",
+      "full_text": "Enrage:\r\n        Adam Astaroth"
+    },
+    {
+      "name": "Unstable Destruction",
+      "source": "Lord of Destruction Baal",
+      "category": "salvation",
+      "full_text": "Unstable Destruction:\r\n        Lord of Destruction Baal"
+    },
+    {
+      "name": "Fake Feint",
+      "source": "Lord of Hatred Mephisto",
+      "category": "salvation",
+      "full_text": "Fake Feint:\r\n        Lord of Hatred Mephisto"
+    }
+  ]
+}
