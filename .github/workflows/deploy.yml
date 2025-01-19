@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Trigger deployment on pushing to the main branch
+      - main
 
 jobs:
   deploy:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20'  # Make sure you're using Node.js 16 or higher
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
@@ -24,12 +24,9 @@ jobs:
       - name: Build the project
         run: npm run build
 
-      - name: Export the project
-        run: npm run export
-
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages  # The branch GitHub Pages is using (you can use a different one if preferred)
-          folder: out  # The folder containing the exported files
+          branch: gh-pages
+          folder: out  # Ensure the 'out' folder is specified here
           token: ${{ secrets.GITHUB_TOKEN }}
